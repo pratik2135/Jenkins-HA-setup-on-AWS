@@ -35,3 +35,10 @@ While not a full production-grade deployment, it replicates common DevOps challe
 ## 🧠 Learnings & Real-World Relevance
 
 Although implemented in a sandbox environment, the project involved hands-on experience with real DevOps tools, debugging common infrastructure issues, and adapting automation scripts under practical constraints.
+
+## 💬 Blog Coming Soon
+
+I’m preparing a write-up covering:
+- Real-world DevOps challenges during this setup
+- Architecture breakdown
+- Lessons learned while working with Jenkins, AWS, Ansible, and Terraform
