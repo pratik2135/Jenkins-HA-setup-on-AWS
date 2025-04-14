@@ -40,7 +40,7 @@ While not a full production-grade deployment, it replicates common DevOps challe
 
 ## 📊 Architecture Diagram
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./Jenkins-ha-architecture.png)
 
 ---
 
